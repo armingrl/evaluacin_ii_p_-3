@@ -1,5 +1,6 @@
 {
     "name": "Evaluación_II_P_ #3",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
